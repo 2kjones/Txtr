@@ -1,0 +1,8 @@
+.query table {
+        /*border-style: solid;*/
+        border-width: 2px;
+        padding: 2px;
+      }
+.query td {
+        border-style: double;
+      }
