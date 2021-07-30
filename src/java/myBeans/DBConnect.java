@@ -16,9 +16,8 @@ public class DBConnect {
   // driver and connection string variables
   private String driver = "com.mysql.jdbc.Driver";
   private String url = "jdbc:mysql://localhost:3306/txtr";
-  private String user = "Kyle";
-  private String pwd = "846414";
-
+  private String user = "Admin username here";
+  private String pwd = "DB password here"
   // JDBC variables and methods
   private Connection conn = null;
   private Statement stm = null;
